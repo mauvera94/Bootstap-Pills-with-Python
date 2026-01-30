@@ -94,4 +94,5 @@ for exploratory analysis and validation workflows.
 ------------------------------------------------------------------------
 
 ## Disclaimer
-This README file was created with the assistance of **ChatGPT**.
+- The Python code in this repository was pair programmed using ChatGPT 5.2
+- This README file was created with ChatGPT 5.2
